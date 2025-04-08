@@ -1,0 +1,16 @@
+[
+'Ngày giao dịch\n(Transaction Date)'
+'Mã chứng khoán\n(Stock code)'
+ 'Mua/Bán\n(Buy/Sell)'
+ 'KL đặt\n(Quantity)'
+ 'Giá đặt\n(Price)'
+ 'KL khớp\n(Matched Quantity)'
+ 'Giá khớp\n(Matched Price)'
+ 'Phí\n(Fee)'
+ 'Thuế\n(Tax)'
+ 'Thành tiền\n(Total)'
+  'Loại lệnh\n(Order Type)'
+ 'Trạng thái\n(Status)'
+ 'Kênh\n(Channel)'
+ 'Số hiệu lệnh\n(Order ID)'
+ ]
